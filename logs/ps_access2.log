@@ -1,0 +1,189 @@
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.16.203.204
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.16.203.204 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.16.203.204
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.16.203.204 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 52.15.109.209
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=52.15.109.209 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 52.15.109.209
+INFO:botocore.credentials:Found credentials from IAM Role: AmazonSSMRoleForInstancesQuickSetup
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 52.15.109.209
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=52.15.109.209 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 52.15.109.209
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=52.15.109.209 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.22.74.69
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.22.74.69
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.22.74.69
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.22.74.69
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.22.74.69
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+INFO:root:dns update <Response [200]>
+INFO:root:GET request to https://checkip.amazonaws.com successful.
+INFO:root:request results 3.22.74.69
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:DNSKey donwloaded
+INFO:root:GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+INFO:root:dns update <Response [200]>
+11-May-23 23:41:40 - GET request to https://checkip.amazonaws.com successful.
+11-May-23 23:41:40 - request results 3.22.74.69
+11-May-23 23:41:40 - Found credentials in shared credentials file: ~/.aws/credentials
+11-May-23 23:41:40 - DNSKey donwloaded
+11-May-23 23:41:40 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+11-May-23 23:41:40 - dns update <Response [200]>
+11-May-23 23:42:53 - GET request to https://checkip.amazonaws.com successful.
+11-May-23 23:42:53 - request results 3.22.74.69
+11-May-23 23:42:53 - Found credentials in shared credentials file: ~/.aws/credentials
+11-May-23 23:42:54 - DNSKey donwloaded
+11-May-23 23:42:54 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.22.74.69 successful.
+11-May-23 23:42:54 - dns update <Response [200]>
+12-May-23 10:51:09 - GET request to https://checkip.amazonaws.com successful.
+12-May-23 10:51:09 - request results 3.128.171.92
+12-May-23 10:51:09 - Found credentials in shared credentials file: ~/.aws/credentials
+12-May-23 10:51:09 - DNSKey donwloaded
+12-May-23 10:51:10 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.128.171.92 successful.
+12-May-23 10:51:10 - dns update <Response [200]>
+12-May-23 10:54:03 - GET request to https://checkip.amazonaws.com successful.
+12-May-23 10:54:03 - request results 18.222.74.31
+12-May-23 10:54:03 - Found credentials in shared credentials file: ~/.aws/credentials
+12-May-23 10:54:04 - DNSKey donwloaded
+12-May-23 10:54:04 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.222.74.31 successful.
+12-May-23 10:54:04 - dns update <Response [200]>
+12-May-23 15:51:11 - GET request to https://checkip.amazonaws.com successful.
+12-May-23 15:51:11 - request results 3.138.67.39
+12-May-23 15:51:11 - Found credentials in shared credentials file: ~/.aws/credentials
+12-May-23 15:51:11 - DNSKey donwloaded
+12-May-23 15:51:12 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.138.67.39 successful.
+12-May-23 15:51:12 - dns update <Response [200]>
+13-May-23 11:56:27 - GET request to https://checkip.amazonaws.com successful.
+13-May-23 11:56:27 - request results 18.119.165.157
+13-May-23 11:56:27 - Found credentials in shared credentials file: ~/.aws/credentials
+13-May-23 11:56:27 - DNSKey donwloaded
+13-May-23 11:56:28 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.119.165.157 successful.
+13-May-23 11:56:28 - dns update <Response [200]>
+14-May-23 13:20:10 - GET request to https://checkip.amazonaws.com successful.
+14-May-23 13:20:10 - request results 18.119.165.157
+14-May-23 13:20:10 - Found credentials in shared credentials file: ~/.aws/credentials
+14-May-23 13:20:11 - DNSKey donwloaded
+14-May-23 13:20:11 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.119.165.157 successful.
+14-May-23 13:20:11 - dns update <Response [200]>
+14-May-23 13:22:33 - GET request to https://checkip.amazonaws.com successful.
+14-May-23 13:22:33 - request results 18.119.165.157
+14-May-23 13:22:33 - Found credentials in shared credentials file: ~/.aws/credentials
+14-May-23 13:22:33 - DNSKey donwloaded
+14-May-23 13:22:34 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.119.165.157 successful.
+14-May-23 13:22:34 - dns update <Response [200]>
+25-May-23 13:26:56 - GET request to https://checkip.amazonaws.com successful.
+25-May-23 13:26:56 - request results 3.12.41.102
+25-May-23 13:26:56 - Found credentials in shared credentials file: ~/.aws/credentials
+25-May-23 13:26:56 - DNSKey donwloaded
+25-May-23 13:26:57 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.12.41.102 successful.
+25-May-23 13:26:57 - dns update <Response [200]>
+25-May-23 16:23:20 - GET request to https://checkip.amazonaws.com successful.
+25-May-23 16:23:20 - request results 3.12.41.102
+25-May-23 16:23:20 - Found credentials in shared credentials file: ~/.aws/credentials
+25-May-23 16:23:20 - DNSKey donwloaded
+25-May-23 16:23:20 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.12.41.102 successful.
+25-May-23 16:23:20 - dns update <Response [200]>
+04-Jun-23 15:11:13 - GET request to https://checkip.amazonaws.com successful.
+04-Jun-23 15:11:13 - request results 3.141.30.58
+04-Jun-23 15:11:13 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Jun-23 15:11:13 - DNSKey donwloaded
+04-Jun-23 15:11:14 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.141.30.58 successful.
+04-Jun-23 15:11:14 - dns update <Response [200]>
+04-Jun-23 16:45:37 - GET request to https://checkip.amazonaws.com successful.
+04-Jun-23 16:45:37 - request results 18.219.164.38
+04-Jun-23 16:45:37 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Jun-23 16:45:38 - DNSKey donwloaded
+04-Jun-23 16:45:39 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.219.164.38 successful.
+04-Jun-23 16:45:39 - dns update <Response [200]>
+09-Jun-23 22:28:16 - GET request to https://checkip.amazonaws.com successful.
+09-Jun-23 22:28:16 - request results 18.221.195.11
+09-Jun-23 22:28:16 - Found credentials in shared credentials file: ~/.aws/credentials
+09-Jun-23 22:28:16 - DNSKey donwloaded
+09-Jun-23 22:28:17 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.221.195.11 successful.
+09-Jun-23 22:28:17 - dns update <Response [200]>
+10-Aug-23 16:21:13 - GET request to https://checkip.amazonaws.com successful.
+10-Aug-23 16:21:13 - request results 3.15.218.238
+10-Aug-23 16:21:13 - Found credentials in shared credentials file: ~/.aws/credentials
+10-Aug-23 16:21:13 - DNSKey donwloaded
+10-Aug-23 16:21:14 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.15.218.238 successful.
+10-Aug-23 16:21:14 - dns update <Response [200]>
+21-Aug-23 18:01:58 - GET request to https://checkip.amazonaws.com successful.
+21-Aug-23 18:01:58 - request results 18.189.141.204
+21-Aug-23 18:01:59 - Found credentials in shared credentials file: ~/.aws/credentials
+21-Aug-23 18:01:59 - DNSKey donwloaded
+21-Aug-23 18:02:00 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.189.141.204 successful.
+21-Aug-23 18:02:00 - dns update <Response [200]>
+24-Aug-23 12:34:24 - GET request to https://checkip.amazonaws.com successful.
+24-Aug-23 12:34:24 - request results 3.141.192.28
+24-Aug-23 12:34:24 - Found credentials in shared credentials file: ~/.aws/credentials
+24-Aug-23 12:34:25 - DNSKey donwloaded
+24-Aug-23 12:34:26 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.141.192.28 successful.
+24-Aug-23 12:34:26 - dns update <Response [200]>
+28-Sep-23 15:09:13 - GET request to https://checkip.amazonaws.com successful.
+28-Sep-23 15:09:13 - request results 18.226.168.199
+28-Sep-23 15:09:13 - Found credentials in shared credentials file: ~/.aws/credentials
+28-Sep-23 15:09:13 - DNSKey donwloaded
+28-Sep-23 15:09:14 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.226.168.199 successful.
+28-Sep-23 15:09:14 - dns update <Response [200]>
+15-Feb-24 19:51:34 - GET request to https://checkip.amazonaws.com successful.
+15-Feb-24 19:51:34 - request results 3.145.153.198
+15-Feb-24 19:51:34 - Found credentials in shared credentials file: ~/.aws/credentials
+15-Feb-24 19:51:34 - DNSKey donwloaded
+15-Feb-24 19:51:35 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.145.153.198 successful.
+15-Feb-24 19:51:35 - dns update <Response [200]>
+16-Feb-24 20:57:19 - GET request to https://checkip.amazonaws.com successful.
+16-Feb-24 20:57:19 - request results 3.142.98.182
+16-Feb-24 20:57:19 - Found credentials in shared credentials file: ~/.aws/credentials
+16-Feb-24 20:57:19 - DNSKey donwloaded
+16-Feb-24 20:57:20 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=3.142.98.182 successful.
+16-Feb-24 20:57:20 - dns update <Response [200]>
+17-Feb-24 13:57:39 - GET request to https://checkip.amazonaws.com successful.
+17-Feb-24 13:57:39 - request results 18.117.8.181
+17-Feb-24 13:57:39 - Found credentials in shared credentials file: ~/.aws/credentials
+17-Feb-24 13:57:40 - DNSKey donwloaded
+17-Feb-24 13:57:41 - GET request to https://lKXCG8n1wktn9yeL:NbKlxyu6Gmg6h7Hu@domains.google.com/nic/update?hostname=gammadrum.viginti.one&myip=18.117.8.181 successful.
+17-Feb-24 13:57:41 - dns update <Response [200]>
